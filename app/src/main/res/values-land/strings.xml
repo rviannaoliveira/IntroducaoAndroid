@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntroducaoAndroid</string>
+    <string name="bem_vindo">Bem vindo</string>
+    <string name="nome">Nome</string>
+    <string name="email">Email</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="camera">Camera</string>
+    <string name="hello">HelloWorld</string>
+    <string name="ok">OK</string>
+    <string name="exemplo">Exemplo</string>
+</resources>
